@@ -20,8 +20,7 @@
  ~ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  ~ THE SOFTWARE.
  -->
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
   <parent>
@@ -32,7 +31,7 @@
 
   <groupId>io.github.stephenc</groupId>
   <artifactId>require</artifactId>
-  <version>0.1-SNAPSHOT</version>
+  <version>1.0.0</version>
   <name>Require assertions for Java</name>
   <description>
     Make it easier to structure unit tests so that errors can be separated from preconditions and asserts
@@ -44,7 +43,7 @@
     <connection>scm:git:git://github.com/stephenc/require.git</connection>
     <developerConnection>scm:git:git@github.com:stephenc/require.git</developerConnection>
     <url>http://github.com/stephenc/require/tree/master/</url>
-    <tag>HEAD</tag>
+    <tag>require-1.0.0</tag>
   </scm>
 
   <licenses>
