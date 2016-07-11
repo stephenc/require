@@ -31,7 +31,7 @@
 
   <groupId>io.github.stephenc</groupId>
   <artifactId>require</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <name>Require assertions for Java</name>
   <description>
     Make it easier to structure unit tests so that errors can be separated from preconditions and asserts
@@ -43,7 +43,7 @@
     <connection>scm:git:git://github.com/stephenc/require.git</connection>
     <developerConnection>scm:git:git@github.com:stephenc/require.git</developerConnection>
     <url>http://github.com/stephenc/require/tree/master/</url>
-    <tag>require-1.0.0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <licenses>
